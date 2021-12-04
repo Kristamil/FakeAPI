@@ -1,0 +1,33 @@
+body
+{
+    margin: 0;
+    background: linear-gradient(45deg,skyblue,blue,navy);
+}
+h1
+{
+    background:linear-gradient(45deg,navy,blue,red,blue);
+    color:cornsilk;
+    text-align: center;
+    margin-top: 0%;
+    box-shadow: 10px 10px 10px yellow;
+
+}
+th
+{
+    color:navy;
+    font-size: x-large;
+    font-weight: bold;
+    background:linear-gradient(45deg,black,yellow,black);
+}
+table
+{
+    text-align: center;
+    margin-left: 10%;
+}
+td
+{
+    color:darkgoldenrod;
+    background-color:darkred;
+    font-weight: bold;
+    font-size: larger;
+}
